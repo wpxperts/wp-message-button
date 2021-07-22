@@ -1,18 +1,18 @@
 === WP Message Button ===
 Contributors: yongkiagustinus
 Tags: button, chat, message, whatsapp, messenger, line, telegram, social, support 
-Donate link: https://paypal.me/88digital
+Donate link: https://paypal.me/yongki
 Requires at least: 4.0
-Tested up to: 5.4
-Requires PHP: 5.6
-Stable tag: 1.0.5
+Tested up to: 5.8
+Requires PHP: 5.7
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Display a chat button that link to popular messenger platform such as WhatsApp, Facebook Messenger, Telegram and Line. Customize the button and box design color, layout, positioning and show / hide in any page or post you like.
 
 == Description ==
-Get WP Message Button PRO for FREE [here](https://88digital.co/stuff/plugins/wp-message-button/)
+Get WP Message Button PRO for FREE [here](http://eepurl.com/gCdzIj)
 WP Message Button allows your customers to contact you directly from the button and message box displayed on your website. 
 
 With WP Message Button you can add a direct link to multiple popular messaging channels such as WhatsApp, Facebook Messenger, Telegram, Line, Skype, and even a direct phone call.
@@ -54,10 +54,10 @@ WP Message Button Pro gives you even more features & functionality. If you want 
 * Catch attention with a notification sound
 * More customization options such as change button icon, change the notification sound and dark mode
 
-Get [WP Message Button Pro](https://88digital.co/stuff/plugins/wp-message-button/#pro) for FREE
+Get [WP Message Button Pro](http://eepurl.com/gCdzIj) for FREE
 
 = DEVELOPED BY =
-[88digital](https://88digital.co/)
+[WPxperts](https://wpxperts.io/)
 
 = CREDITS =
 * Whatsapp, Messenger, Line & Telegram indicator icon by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect)
@@ -83,6 +83,11 @@ Yes, we don't store any personal information and not using cookies
 Keep your plugin up to date to get the latest features & the best performance
 
 == Changelog ==
+
+= 1.0.6 =
+
+Release date: July 22nd, 2021
+* WordPress 5.8 compatibility test
 
 = 1.0.5 =
 

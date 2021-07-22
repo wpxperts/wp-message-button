@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WP Message Button
- * Plugin URI: https://88digital.co/stuff/plugins/wp-message-button/
+ * Plugin URI: https://wpxperts.io
  * Description: Display a chat button that link to popular messenger platform such as WhatsApp, Facebook Messenger, Telegram and Line. Customize the button and box design color, layout, positioning and show / hide in any page or post you like.
- * Version: 1.0.5
- * Author: 88digital
- * Author URI: https://88digital.co
+ * Version: 1.0.6
+ * Author: Yongki Agustinus
+ * Author URI: https://yongki.id
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.en.html
  * Text Domain: wpmessagebutton
@@ -13,7 +13,7 @@
  */
 
 /*
- 	Copyright (C) 2020 88digital
+ 	Copyright (C) 2020 Yongki Agustinus (WPxperts)
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
@@ -33,7 +33,7 @@ if ( ! defined( 'ABSPATH' ) ) { die( 'Forbidden' ); }
 
 define( 'WPMESSAGEBUTTON_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'WPMESSAGEBUTTON_PLUGIN_URI', plugin_dir_url( __FILE__ ) );
-define( 'WPMESSAGEBUTTON_GET_PRO_URI', 'https://88digital.co/stuff/plugins/wp-message-button/#pro' );
+define( 'WPMESSAGEBUTTON_GET_PRO_URI', 'hhttp://eepurl.com/gCdzIj' );
 
 require_once( WPMESSAGEBUTTON_PLUGIN_DIR . 'includes/class.wpmessagebutton.php' );
 require_once( WPMESSAGEBUTTON_PLUGIN_DIR . 'includes/class.wpmessagebutton-settings.php' );
